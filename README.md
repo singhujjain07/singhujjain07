@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhujjain07&label=Profile%20views&color=0e75b6&style=flat" alt="singhujjain07" /> </p>
 
 - 🌱 I’m currently learning Data Structures and algorithms
-- 
+- 🔭 Exploring web-development stuffs
 - 📫 How to reach me **harshsingh.in07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
